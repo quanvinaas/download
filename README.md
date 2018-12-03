@@ -3,4 +3,4 @@
 
 
 ### EasyDMS
-- link [download](/apps/easydms/DMS_VinaAS_v1.0.0_1024.apk)
+- link [download](https://github.com/vinaas/download/releases/download/1.0/DMS_VinaAS_v1.0.0_1024.apk)
